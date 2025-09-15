@@ -40,13 +40,13 @@
 Feel free to explore my repositories and open issues or pull requests if you'd like to contribute or collaborate.
 
 ### 🔥 Streak Stats  
-[![ZeenatKhan's GitHub Streak](https://streak-stats.demolab.com/?user=ZeenatKhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![ZeenatKhan's GitHub Streak](https://streak-stats.demolab.com/?user=Zeenat-Khan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
  
 
 ### 📊 GitHub Stats  
-![ZeenatKhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeenatKhan&show_icons=true&theme=radical)
+![ZeenatKhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeenat-Khan&show_icons=true&theme=radical)
 
 
 ![ZeenatKhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeenatKhan&layout=compact&theme=radical)
