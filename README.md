@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zeenat Khan!! 👋</h1>
 <p align="center">
-  <a href="https://github.com/Zeenat Khan"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Front+End+Developer;Python+Coding+Tutor+and+Trainer;Web+Developer;AI+and+ML+Explorer" alt="Typing SVG" /></a>
+  <a href="https://github.com/Zeenat-Khan"><img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=Front+End+Developer;Python+Coding+Tutor+and+Trainer;Web+Developer;AI+and+ML+Explorer" alt="Typing SVG" /></a>
 </p>
 
 
